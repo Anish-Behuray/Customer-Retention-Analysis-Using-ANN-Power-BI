@@ -19,8 +19,8 @@ Churn prediction is critical in subscription-based industries like telecom. This
 
 ## 🚀 Live Demo
 
-- 🔗 **Streamlit App**: [Launch Churn Predictor](https://your-streamlit-app-link)
-- 📊 **Power BI Report**: [View Interactive Dashboard](https://your-powerbi-report-link)
+- 🔗 **Code Link**: [Open the code](https://iitkgpacin-my.sharepoint.com/:u:/g/personal/abehuray_kgpian_iitkgp_ac_in/EceTcv1HaqBAh_nItvcE_hwBf3lS5KzHTXvfdLpsHuZFiQ?e=3qyHjJ)
+- 📊 **Power BI Report**: [View Interactive Dashboard](https://iitkgpacin-my.sharepoint.com/:u:/g/personal/abehuray_kgpian_iitkgp_ac_in/EceTcv1HaqBAh_nItvcE_hwBf3lS5KzHTXvfdLpsHuZFiQ?e=3qyHjJ)
 
 ---
 
@@ -70,15 +70,9 @@ Churn prediction is critical in subscription-based industries like telecom. This
 
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Run the Streamlit app:
 
-bash
-Copy
-Edit
 streamlit run churn_predictor.py
 📊 Dataset
 Dataset Source: Telco Customer Churn – Kaggle
