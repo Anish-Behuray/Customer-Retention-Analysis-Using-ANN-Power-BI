@@ -57,23 +57,10 @@ Churn prediction is critical in subscription-based industries like telecom. This
 
 | Streamlit Churn Predictor | Power BI Dashboard |
 |---------------------------|---------------------|
-| ![Streamlit Screenshot](https://your-streamlit-image-link.com) | ![Power BI Screenshot](https://your-powerbi-image-link.com) |
+| ![Streamlit Screenshot](https://drive.google.com/file/d/1bi4gUGU9VETjAVSd2LarbAr7Lr3KM4g7/view?usp=sharing) | ![Power BI Screenshot](https://drive.google.com/file/d/1pfJXWVo10rcxXVfvWsjBJyLPC2HvbE0G/view?usp=sharing) |
 
 ---
 
-## ▶️ How to Run Locally
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/your-username/churn-prediction-telecom.git
-   cd churn-prediction-telecom
-
-Install dependencies:
-
-pip install -r requirements.txt
-Run the Streamlit app:
-
-streamlit run churn_predictor.py
 📊 Dataset
 Dataset Source: Telco Customer Churn – Kaggle
 
