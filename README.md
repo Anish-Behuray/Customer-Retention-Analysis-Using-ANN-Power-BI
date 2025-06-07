@@ -57,9 +57,7 @@ Churn prediction is critical in subscription-based industries like telecom. This
 
 | Streamlit Churn Predictor | Power BI Dashboard |
 |---------------------------|---------------------|
-| ![Streamlit Screenshot](![Screenshot 2025-06-05 135350](https://github.com/user-attachments/assets/b3d9f75b-b1fd-4771-9214-338c7c3fa989)
-) | ![Power BI Screenshot](![Screenshot 2025-06-05 135726](https://github.com/user-attachments/assets/23779087-e297-4a8e-affb-1457cbb96066)
-) |
+| ![Screenshot 2025-06-05 135350](https://github.com/user-attachments/assets/b3d9f75b-b1fd-4771-9214-338c7c3fa989) | ![Screenshot 2025-06-05 135726](https://github.com/user-attachments/assets/23779087-e297-4a8e-affb-1457cbb96066) |
 
 ---
 
